@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WebLink360</string>
+    <string name="servidor">URL del servidor (API)</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="ir_registro">¿No tienes cuenta? Regístrate</string>
+    <string name="registrarse">Crear cuenta</string>
+    <string name="confirmar_password">Confirmar contraseña</string>
+    <string name="volver_login">Volver al inicio de sesión</string>
+    <string name="panel_titulo">Panel WebLink360</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <string name="productos">Productos</string>
+    <string name="usuarios">Usuarios</string>
+    <string name="pedidos">Pedidos</string>
+    <string name="reintentar">Reintentar</string>
+    <string name="sin_registros">No hay registros para mostrar</string>
+</resources>
